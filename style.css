@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+
+}
+
+/* style do titulo elemento h1*/
+h1 {
+    margin: 0;
+}
+
+/*esse é o style do cabeçalho*/
+header {
+    background-color: #4e3d8b;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: space-between;
+    /* Só funciona com display flex */
+    padding: 10px;
+    
+}
+#box-ordenar button{ 
+    background-color: #6f3481;
+} 
+#box-categorias buttont{ 
+    background-color: aqua; 
+}
+
+
+
+#box-ordenar button{
+    background-color:rgb(34, 196, 19);
+    border: 0;
+    color: rgb(63, 3, 53);
+    padding: 10px 20px; 
+    border-radius: 5px;
+ } 
